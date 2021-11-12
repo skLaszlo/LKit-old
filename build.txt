@@ -1,0 +1,3 @@
+displayName = LKit
+author = skLaszlo
+version = 1.0.3

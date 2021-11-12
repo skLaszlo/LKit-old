@@ -1,0 +1,30 @@
+                                 [g:3][g:0][g:3] 
+After many hours of hard labor and learning multiple programs, I present to you [c/ddf221:LKit] version 1!
+
+[c/ddf221:LKit currently includes:]
+[g:5] 4 tools
+[g:5] 3 crafting materials
+[g:5] 2 guns
+[g:5] 1 (WIP) vanity item (unobtainable)
+
+
+[c/ddf221:An early game hamaxe?!]
+[i:3518] + [i:3517] + [i:9] = [c/8789c6:Caution!]
+- 55% hammer power
+- 55% axe power
+On top of that, the [c/8789c6:Caution!] hamaxe can be upgraded later in hardmode! No spoilers!
+
+[c/ddf221:Some guns are also present:]
+[c/8789c6:UZM]
+- 7 ranged damage
+- 5% crit chance
+Similarly to the hamaxes, the [c/8789c6:UZM] can also be upgraded in hardmode. You just have to use some circuitry!
+
+[c/FF0000:What's next?]
+I want to continue adding more items and weapons to this mod pack. I have at least one pet idea in mind as well. Hopefully as I improve my modding skills I can create better and better things! Something else to keep in mind is that I'm trying to have every item scale appropriately with how the game normally progresses.
+
+[c/FF0000:Further info]
+[c/ddf221:LKit] has a Discord server for anyone interested. Here you will be able to find updates and other relevant news regarding the mod. Additionally, I have a Twitch channel where I stream tModLoader playthroughs and various other games! If you'd like to contact me for any reason your best shot is to join my community Discord server. See you around and enjoy the mod!
+LKit Discord: [c/ddf221:discord.gg/TPTrapYdV2]
+Twitch: [c/9146FF:twitch.tv/skLaszlo]
+Twitch Discord: [c/7289d9:discord.gg/JEBaQyt]
