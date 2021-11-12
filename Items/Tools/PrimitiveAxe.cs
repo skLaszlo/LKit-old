@@ -3,11 +3,11 @@ using Terraria.ModLoader;
 
 namespace LKit.Items.Tools
 {
-	public class PrimitivePickaxe : ModItem
+	public class PrimitiveAxe : ModItem
 	{
 		public override void SetStaticDefaults()
 		{
-			DisplayName.SetDefault("Primitive Pickaxe"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
+			DisplayName.SetDefault("Primitive Axe"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
 			//Tooltip.SetDefault("It'll do for now");
 		}
 
@@ -18,8 +18,8 @@ namespace LKit.Items.Tools
 			item.melee = true;
 			item.width = 20;
 			item.height = 40;
-			item.useTime = 15;
-			item.useAnimation = 23;
+			item.useTime = 20;
+			item.useAnimation = 21;
 			item.useStyle = 1;
 			item.knockBack = 0;
 			item.value = 2;
@@ -27,14 +27,14 @@ namespace LKit.Items.Tools
 			item.UseSound = SoundID.Item1;
 			item.autoReuse = true;
 			item.useTurn = true;
-			item.pick = 37;
+			item.axe = 8;
 		}
 
 		public override void AddRecipes()
 		{
 			ModRecipe recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.Wood, 4);
-			recipe.AddIngredient(ItemID.StoneBlock, 16);
+			recipe.AddIngredient(ItemID.StoneBlock, 12);
 			recipe.AddIngredient(ItemID.Rope, 2);
 			recipe.AddTile(TileID.WorkBenches);
 			recipe.SetResult(this);
